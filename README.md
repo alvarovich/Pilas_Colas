@@ -1,4 +1,3 @@
-# Pilas_Colas
 # PSP - Estructuras dinámicas de datos: Pilas y Colas
 
 **Alumno:** Álvaro · **Módulo:** Programación de Servicios y Procesos · **Curso:** 2º DAM (ILERNA)
